@@ -2,7 +2,7 @@
 ## Info
 
 Hi there, I'm Eren Ozyurek.
-I am a fullstack developer from Belgium :be:
+I am a fullstack developer from Belgium!
 
 
 
