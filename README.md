@@ -1,7 +1,8 @@
 
 ## Info
 
-Hi there, I'm Eren a Fullstack Developer.
+Hi there, I'm Eren Ozyurek.
+I am a fullstack developer from Belgium 🇧🇪
 
 
 
