@@ -26,7 +26,7 @@ I am a fullstack developer from Belgium!
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![html](https://img.shields.io/badge/html-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)
-![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
+![css](https://img.shields.io/badge/css-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
