@@ -35,7 +35,7 @@ I am a fullstack developer from Belgium!
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 
+[![Top Langs](https://github.com/erenozy66/Feedback-App-PHP.git/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github.com/erenozy66/Feedback-App-PHP.git)](https://github.com/erenozy66/Domain.Validator.git)
 
 
