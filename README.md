@@ -39,4 +39,4 @@ I am a fullstack developer from Belgium!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenozy66&show_icons=true&theme=transparent&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenozy66&show_icons=true&theme=chartreuse-dark&rank_icon=github)
