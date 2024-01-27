@@ -35,7 +35,7 @@ I am a fullstack developer from Belgium!
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/erenozy66/Feedback-App-PHP)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenozy66&show_icons=true&theme=transparent)
 
 
 
