@@ -35,7 +35,6 @@ I am a fullstack developer from Belgium!
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenozy66&show_icons=true&theme=transparent&rank_icon=github)
 
 
 
